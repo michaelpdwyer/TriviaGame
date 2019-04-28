@@ -14,7 +14,7 @@ body {
   font-size: 75px;
   margin: 2.5% auto;
   background-color: #F1FAEE;
-  width: 460px;
+  width: 480px;
   border: solid 3px #E63946;
 }
 
@@ -23,8 +23,8 @@ button {
   margin: 0 auto;
   border: none;
   cursor: pointer;
-  background-color: darkgoldenrod;
-  font-size: 35px;
+  background-color: gold;
+  font-size: 30px;
 }
 
 img {
@@ -33,12 +33,14 @@ img {
 
 h1 {
   font-family: 'Aclonica', sans-serif;
+  padding: 8px;
   color: #F1FAEE;
   font-weight: bold;
 }
 
 h2 {
   font-family: 'Aclonica', sans-serif;
+  padding: 8px;
   color: darkslategray;
   font-size: 40px;
   font-weight: bold;
